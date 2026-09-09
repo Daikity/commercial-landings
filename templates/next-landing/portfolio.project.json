@@ -1,0 +1,29 @@
+{
+  "id": "example-slug",
+  "title": "Example Brand",
+  "demoBase": "/demos/example-slug",
+  "folder": "commercial-landings/apps/example-slug",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+  "summary": "Краткое описание лендинга",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "…",
+      "problem": "…",
+      "solution": "…",
+      "result": "…",
+      "metaTitle": "…",
+      "metaDescription": "…"
+    },
+    "en": {
+      "summary": "…",
+      "problem": "…",
+      "solution": "…",
+      "result": "…",
+      "metaTitle": "…",
+      "metaDescription": "…"
+    }
+  }
+}
