@@ -6,8 +6,8 @@ Showcase из 15 коммерческих landing pages (5 тематик × 3 �
 
 ## Статус
 
-Этап: **Phase 2** — Maison Crumb concept + assets готовы.  
-Следующий шаг: Phase 3 — реализация `apps/maison-crumb` (после подтверждения).
+Этап: **Batch 1 / Maison Crumb** — лендинг реализован, ждёт проверки.  
+Demo: `/demos/maison-crumb/`.
 
 Canonical ТЗ: [`../tz-for-commercial-landings-plan.md`](../tz-for-commercial-landings-plan.md)
 

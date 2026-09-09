@@ -54,9 +54,18 @@ export default function Home() {
                 screenshot
               </div>
               <div className="flex gap-3">
-                <span className="text-muted" title="Demo появится после реализации">
-                  Demo
-                </span>
+                {project.status === 'ready' ? (
+                  <a
+                    className="text-accent underline-offset-2 hover:underline"
+                    href={`/demos/${project.slug}/`}
+                  >
+                    Demo
+                  </a>
+                ) : (
+                  <span className="text-muted" title="Demo появится после реализации">
+                    Demo
+                  </span>
+                )}
                 <span className="text-muted" title="Source появится после реализации">
                   Source
                 </span>

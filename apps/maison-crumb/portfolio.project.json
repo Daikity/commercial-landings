@@ -1,0 +1,29 @@
+{
+  "id": "maison-crumb",
+  "title": "Maison Crumb",
+  "demoBase": "/demos/maison-crumb",
+  "folder": "commercial-landings/apps/maison-crumb",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "summary": "Classic commercial bakery landing — order pickup & delivery",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "Классический коммерческий лендинг пекарни с CTA Order now.",
+      "problem": "Нужен убедительный сайт малого бизнеса: меню, доверие, заказ.",
+      "solution": "Single-page на Next static export: hero, ассортимент, отзывы, форма заказа.",
+      "result": "Демо под /demos/maison-crumb/ с motion A, SEO и mock-формой.",
+      "metaTitle": "Maison Crumb — кейс bakery landing",
+      "metaDescription": "Classic commercial landing пекарни на Next.js: UX, motion, SEO."
+    },
+    "en": {
+      "summary": "Classic commercial bakery landing with Order now CTA.",
+      "problem": "Need a credible small-business site: menu, trust, ordering.",
+      "solution": "Next static-export single page: hero, assortment, reviews, order form.",
+      "result": "Demo at /demos/maison-crumb/ with level-A motion, SEO, and mock form.",
+      "metaTitle": "Maison Crumb — bakery landing case",
+      "metaDescription": "Classic commercial bakery landing on Next.js: UX, motion, SEO."
+    }
+  }
+}

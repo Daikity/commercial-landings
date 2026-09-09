@@ -22,8 +22,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
       ru: 'Пекарня: ассортимент, доставка, понятный CTA Order now.',
       en: 'Bakery landing with assortment, delivery, and Order now CTA.',
     },
-    tech: ['Next.js', 'Tailwind', 'Framer Motion'],
-    status: 'planned',
+    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
+    status: 'ready',
   },
   {
     name: 'NOIR PÂTISSERIE',
