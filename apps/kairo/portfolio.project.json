@@ -1,0 +1,29 @@
+{
+  "id": "kairo",
+  "title": "KAIRO",
+  "demoBase": "/demos/kairo",
+  "folder": "commercial-landings/apps/kairo",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "summary": "Experimental wellness landing — breathing sticky practice ritual",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "Experimental motion лендинг wellness-студии: ритуал Arrive → Rest.",
+      "problem": "Показать Level C: vertical sticky + breathing scale и mobile alternative.",
+      "solution": "Scroll-driven breath stages + mist imagery + Join a session form.",
+      "result": "Демо /demos/kairo/.",
+      "metaTitle": "KAIRO — wellness stillness case",
+      "metaDescription": "Experimental wellness landing на Next.js."
+    },
+    "en": {
+      "summary": "Experimental motion wellness landing: Arrive → Rest breath ritual.",
+      "problem": "Show Level C vertical sticky + breathing scale with a real mobile alternative.",
+      "solution": "Scroll-driven breath stages + mist imagery + Join a session form.",
+      "result": "Demo at /demos/kairo/.",
+      "metaTitle": "KAIRO — wellness stillness case",
+      "metaDescription": "Experimental wellness landing on Next.js."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+:root {
+  --color-bg: #e4ebe7;
+  --color-bg-elevated: #f0f4f1;
+  --color-bg-deep: #1c2420;
+  --color-text: #1c2420;
+  --color-text-muted: #5a6660;
+  --color-accent: #3d6b62;
+  --color-accent-hover: #2f554e;
+  --color-line: #c5d0ca;
+  --color-success: #3f6b4e;
+  --font-display: 'Instrument Serif', Georgia, serif;
+  --font-body: 'Figtree', system-ui, sans-serif;
+  --radius-sm: 0.25rem;
+  --radius-md: 0.75rem;
+  --section-space: clamp(3rem, 9vw, 7rem);
+  --shell-max: 72rem;
+}

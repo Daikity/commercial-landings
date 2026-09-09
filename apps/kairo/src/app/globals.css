@@ -1,0 +1,64 @@
+@import 'tailwindcss';
+@import '../styles/tokens.css';
+
+@theme inline {
+  --color-background: var(--color-bg);
+  --color-foreground: var(--color-text);
+  --font-sans: var(--font-body);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body), system-ui, sans-serif;
+  overflow-x: clip;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--color-accent) 28%, white);
+}
+
+@keyframes kairo-float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes kairo-breathe {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.035);
+  }
+}
+
+.kairo-float {
+  animation: kairo-float 7s ease-in-out infinite;
+}
+
+.kairo-breathe {
+  animation: kairo-breathe 8s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .kairo-float,
+  .kairo-breathe {
+    animation: none;
+  }
+}

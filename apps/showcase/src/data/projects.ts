@@ -87,8 +87,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
       ru: 'Wellness / yoga: спокойное пространство, breathing motion.',
       en: 'Wellness / yoga space with calm breathing-like motion.',
     },
-    tech: ['Next.js', 'Tailwind', 'Framer Motion'],
-    status: 'planned',
+    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
+    status: 'ready',
   },
   {
     name: 'NORTHLINE',
