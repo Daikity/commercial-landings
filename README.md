@@ -6,10 +6,12 @@ Showcase из 15 коммерческих landing pages (5 тематик × 3 �
 
 ## Статус
 
-Этап: **Batch 1 / NOIR PÂTISSERIE** — готов к проверке.  
-Demos: `/demos/maison-crumb/`, `/demos/noir-patisserie/`.
+Этап: **Batch 1 complete** — Maison / Noir / Ferment.  
+Demos: `/demos/maison-crumb/`, `/demos/noir-patisserie/`, `/demos/ferment/`.  
+Далее: **Hard Gate → Batch 2 Beauty**.
 
-Canonical ТЗ: [`../tz-for-commercial-landings-plan.md`](../tz-for-commercial-landings-plan.md)
+Canonical ТЗ: [`../tz-for-commercial-landings-plan.md`](../tz-for-commercial-landings-plan.md)  
+Контекст: [`../ferment-batch1-context-plan.md`](../ferment-batch1-context-plan.md)
 
 ## Архитектура
 

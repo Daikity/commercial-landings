@@ -1,0 +1,17 @@
+:root {
+  --color-bg: #ebe6dc;
+  --color-bg-elevated: #f5f1e8;
+  --color-text: #1c1914;
+  --color-text-muted: #5c564c;
+  --color-accent: #b33a1a;
+  --color-accent-hover: #8f2e15;
+  --color-line: #d2cbbd;
+  --color-success: #3f6b4e;
+  --font-display: 'Syne', system-ui, sans-serif;
+  --font-body: 'Literata', Georgia, serif;
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --section-space: clamp(3rem, 9vw, 7rem);
+  /* Как Header: max-w-6xl. На 1280px боковой зазор ≈ 5%; шире — растёт вместе с логотипом */
+  --shell-max: 72rem;
+}

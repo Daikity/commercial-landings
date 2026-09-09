@@ -1,0 +1,29 @@
+{
+  "id": "ferment",
+  "title": "FERMENT",
+  "demoBase": "/demos/ferment",
+  "folder": "commercial-landings/apps/ferment",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "summary": "Experimental sourdough landing — Grain → Bread scroll storytelling",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "Experimental motion лендинг artisan sourdough: процесс Grain → Bread.",
+      "problem": "Показать Level C: sticky storytelling и mobile alternative.",
+      "solution": "Scroll-driven process + documentary imagery + Reserve a loaf form.",
+      "result": "Демо /demos/ferment/.",
+      "metaTitle": "FERMENT — artisan sourdough case",
+      "metaDescription": "Experimental sourdough landing на Next.js."
+    },
+    "en": {
+      "summary": "Experimental motion artisan sourdough landing: Grain → Bread process.",
+      "problem": "Show Level C sticky storytelling with a real mobile alternative.",
+      "solution": "Scroll-driven process + documentary imagery + Reserve a loaf form.",
+      "result": "Demo at /demos/ferment/.",
+      "metaTitle": "FERMENT — artisan sourdough case",
+      "metaDescription": "Experimental sourdough landing on Next.js."
+    }
+  }
+}

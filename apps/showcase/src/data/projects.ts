@@ -48,8 +48,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
       ru: 'Artisan sourdough: scroll storytelling Grain → Bread.',
       en: 'Artisan sourdough with Grain → Bread scroll storytelling.',
     },
-    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'GSAP'],
-    status: 'planned',
+    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
+    status: 'ready',
   },
   {
     name: 'AURA Studio',

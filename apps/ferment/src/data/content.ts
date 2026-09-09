@@ -1,0 +1,90 @@
+export const site = {
+  name: 'FERMENT',
+  tagline: 'Time is the main ingredient.',
+  support: 'Artisan sourdough shaped by grain, flour, fold, rest, fire — then bread.',
+  email: 'hello@ferment.demo',
+  phone: '+1 (503) 555-0177',
+  address: '88 Division Street, Portland',
+  hours: 'Fri–Sun · loaves from 9:00',
+};
+
+export const steps = [
+  {
+    id: 'grain',
+    num: '01',
+    title: 'Grain',
+    text: 'Whole kernels from regional mills — wheat, rye, and heritage blends we trust.',
+    image: '/images/hero-grain.png',
+    alt: 'Wheat and rye grains pouring from a burlap sack',
+  },
+  {
+    id: 'flour',
+    num: '02',
+    title: 'Flour',
+    text: 'Freshly milled when we can. The dust in the air is the beginning of flavor.',
+    image: '/images/flour.png',
+    alt: 'Hands sifting flour with dust in the air',
+  },
+  {
+    id: 'starter',
+    num: '03',
+    title: 'Starter',
+    text: 'A living culture fed daily. Bubbles mean the bake has already begun.',
+    image: '/images/starter.png',
+    alt: 'Active sourdough starter in a glass jar',
+  },
+  {
+    id: 'dough',
+    num: '04',
+    title: 'Dough',
+    text: 'Hydration, stretch, fold. Strength built by hand, not by hurry.',
+    image: '/images/dough.png',
+    alt: 'Baker folding sticky sourdough on floured wood',
+  },
+  {
+    id: 'fermentation',
+    num: '05',
+    title: 'Fermentation',
+    text: 'Long cold proof in bannetons. Acidity rises. Crumb opens.',
+    image: '/images/fermentation.png',
+    alt: 'Dough resting in cane banneton baskets',
+  },
+  {
+    id: 'score',
+    num: '06',
+    title: 'Score',
+    text: 'One decisive cut. Steam escapes where we intend the bloom.',
+    image: '/images/score.png',
+    alt: 'Baker scoring raw dough with a lame',
+  },
+  {
+    id: 'oven',
+    num: '07',
+    title: 'Oven',
+    text: 'Deck heat and steam. The moment crust commits.',
+    image: '/images/oven.png',
+    alt: 'Loaves loading into a glowing deck oven',
+  },
+  {
+    id: 'bread',
+    num: '08',
+    title: 'Bread',
+    text: 'Crackled boules, still singing on the rack. Ready for the table.',
+    image: '/images/bread.png',
+    alt: 'Fresh sourdough boules with cracked crust on a cooling rack',
+  },
+  {
+    id: 'crumb',
+    num: '09',
+    title: 'Crumb',
+    text: 'Open alveoli, caramel depth. The proof is in the slice.',
+    image: '/images/crumb.png',
+    alt: 'Sliced sourdough loaf showing open crumb',
+  },
+];
+
+export const loaves = [
+  { value: 'country' as const, label: 'Country boule' },
+  { value: 'rye' as const, label: 'Dark rye' },
+  { value: 'seeded' as const, label: 'Seeded batard' },
+];
