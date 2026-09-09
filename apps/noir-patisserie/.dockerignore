@@ -1,0 +1,8 @@
+node_modules
+.next
+out
+.git
+*.md
+!public/images/README.md
+.gitignore
+concept.md

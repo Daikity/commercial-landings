@@ -1,0 +1,15 @@
+:root {
+  --color-bg: #0c0b0a;
+  --color-bg-elevated: #161412;
+  --color-text: #f3ebe0;
+  --color-text-muted: #a89f93;
+  --color-accent: #c4a574;
+  --color-accent-hover: #d4b98a;
+  --color-line: #2a2622;
+  --color-success: #8fbc8f;
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Manrope', system-ui, sans-serif;
+  --radius-sm: 0;
+  --radius-md: 0;
+  --section-space: clamp(4rem, 10vw, 8rem);
+}

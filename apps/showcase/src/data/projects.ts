@@ -35,8 +35,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
       ru: 'Premium pastry studio: editorial photography и горизонтальная галерея.',
       en: 'Premium pastry studio with editorial photography and horizontal gallery.',
     },
-    tech: ['Next.js', 'Tailwind', 'Framer Motion'],
-    status: 'planned',
+    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
+    status: 'ready',
   },
   {
     name: 'FERMENT',

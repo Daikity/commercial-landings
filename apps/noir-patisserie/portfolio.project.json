@@ -1,0 +1,29 @@
+{
+  "id": "noir-patisserie",
+  "title": "NOIR PÂTISSERIE",
+  "demoBase": "/demos/noir-patisserie",
+  "folder": "commercial-landings/apps/noir-patisserie",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "summary": "Premium editorial pastry studio landing — private orders",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "Premium editorial лендинг pastry studio с private orders.",
+      "problem": "Показать более дорогой визуальный уровень, отличный от classic bakery.",
+      "solution": "Dark editorial: horizontal gallery, cinematic motion, форма private order.",
+      "result": "Демо /demos/noir-patisserie/ — Level B Premium.",
+      "metaTitle": "NOIR PÂTISSERIE — premium pastry case",
+      "metaDescription": "Premium editorial pastry landing на Next.js."
+    },
+    "en": {
+      "summary": "Premium editorial pastry studio landing with private orders.",
+      "problem": "Show a higher visual tier distinct from classic bakery.",
+      "solution": "Dark editorial: horizontal gallery, cinematic motion, private order form.",
+      "result": "Demo at /demos/noir-patisserie/ — Level B Premium.",
+      "metaTitle": "NOIR PÂTISSERIE — premium pastry case",
+      "metaDescription": "Premium editorial pastry landing on Next.js."
+    }
+  }
+}

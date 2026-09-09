@@ -6,8 +6,8 @@ Showcase из 15 коммерческих landing pages (5 тематик × 3 �
 
 ## Статус
 
-Этап: **Batch 1 / Maison Crumb** — лендинг реализован, ждёт проверки.  
-Demo: `/demos/maison-crumb/`.
+Этап: **Batch 1 / NOIR PÂTISSERIE** — готов к проверке.  
+Demos: `/demos/maison-crumb/`, `/demos/noir-patisserie/`.
 
 Canonical ТЗ: [`../tz-for-commercial-landings-plan.md`](../tz-for-commercial-landings-plan.md)
 
