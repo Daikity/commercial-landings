@@ -61,8 +61,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
       ru: 'Салон красоты: услуги, цены, before/after, booking.',
       en: 'Beauty salon with services, prices, before/after, booking.',
     },
-    tech: ['Next.js', 'Tailwind', 'Framer Motion'],
-    status: 'planned',
+    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
+    status: 'ready',
   },
   {
     name: 'MONA Skin',

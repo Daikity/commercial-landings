@@ -1,0 +1,29 @@
+{
+  "id": "aura-studio",
+  "title": "AURA Studio",
+  "demoBase": "/demos/aura-studio",
+  "folder": "commercial-landings/apps/aura-studio",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "summary": "Classic commercial beauty salon — services, prices, booking",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "Классический коммерческий лендинг салона красоты с CTA Book a visit.",
+      "problem": "Нужен понятный сайт салона: услуги, цены, команда, запись.",
+      "solution": "Single-page Next static export: hero, services, before/after, форма записи.",
+      "result": "Демо под /demos/aura-studio/ с motion A, SEO и mock-формой.",
+      "metaTitle": "AURA Studio — кейс beauty salon landing",
+      "metaDescription": "Classic commercial landing салона на Next.js: UX, motion, SEO."
+    },
+    "en": {
+      "summary": "Classic commercial beauty salon landing with Book a visit CTA.",
+      "problem": "Need a clear salon site: services, prices, team, booking.",
+      "solution": "Next static-export single page: hero, services, before/after, booking form.",
+      "result": "Demo at /demos/aura-studio/ with level-A motion, SEO, and mock form.",
+      "metaTitle": "AURA Studio — beauty salon landing case",
+      "metaDescription": "Classic commercial beauty salon landing on Next.js: UX, motion, SEO."
+    }
+  }
+}
