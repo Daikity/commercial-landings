@@ -74,8 +74,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
       ru: 'Luxury skincare clinic: minimal medical-premium.',
       en: 'Luxury skincare clinic with minimal medical-premium look.',
     },
-    tech: ['Next.js', 'Tailwind', 'Framer Motion'],
-    status: 'planned',
+    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
+    status: 'ready',
   },
   {
     name: 'KAIRO',

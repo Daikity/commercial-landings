@@ -1,0 +1,29 @@
+{
+  "id": "mona-skin",
+  "title": "MONA Skin",
+  "demoBase": "/demos/mona-skin",
+  "folder": "commercial-landings/apps/mona-skin",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "summary": "Premium editorial skincare clinic — consult booking",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "Premium editorial лендинг skincare-клиники с CTA Request a consult.",
+      "problem": "Нужен medical-luxury сайт: философия, процедуры, эксперты, запись.",
+      "solution": "Next static export: editorial layout, parallax-лёгкий motion B, mock-форма.",
+      "result": "Демо /demos/mona-skin/.",
+      "metaTitle": "MONA Skin — кейс skincare clinic",
+      "metaDescription": "Premium editorial skincare clinic landing на Next.js."
+    },
+    "en": {
+      "summary": "Premium editorial skincare clinic landing with Request a consult CTA.",
+      "problem": "Need a medical-luxury site: philosophy, treatments, experts, booking.",
+      "solution": "Next static export: editorial layout, level-B motion, mock form.",
+      "result": "Demo at /demos/mona-skin/.",
+      "metaTitle": "MONA Skin — skincare clinic case",
+      "metaDescription": "Premium editorial skincare clinic landing on Next.js."
+    }
+  }
+}

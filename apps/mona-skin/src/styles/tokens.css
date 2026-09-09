@@ -1,0 +1,16 @@
+:root {
+  --color-bg: #f6f4f1;
+  --color-bg-elevated: #fffcf9;
+  --color-text: #161616;
+  --color-text-muted: #6a6662;
+  --color-accent: #7a6e5d;
+  --color-accent-hover: #5f5648;
+  --color-line: #e4dfd8;
+  --color-success: #4a5c52;
+  --font-display: 'Newsreader', Georgia, serif;
+  --font-body: 'IBM Plex Sans', system-ui, sans-serif;
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --section-space: clamp(4rem, 10vw, 8rem);
+  --shell-max: 72rem;
+}
