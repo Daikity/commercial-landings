@@ -1,0 +1,16 @@
+:root {
+  --color-bg: #f3f4f6;
+  --color-bg-elevated: #ffffff;
+  --color-text: #12151a;
+  --color-text-muted: #5c6570;
+  --color-accent: #1a3a5c;
+  --color-accent-hover: #122a44;
+  --color-line: #d5d9e0;
+  --color-success: #2f6b4f;
+  --font-display: 'Archivo', system-ui, sans-serif;
+  --font-body: 'Public Sans', system-ui, sans-serif;
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --section-space: clamp(3.5rem, 8vw, 6.5rem);
+  --shell-max: 72rem;
+}

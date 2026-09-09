@@ -100,8 +100,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
       ru: 'Агентство недвижимости: фильтры объектов, карточки.',
       en: 'Real estate agency with property filters and cards.',
     },
-    tech: ['Next.js', 'Tailwind', 'Framer Motion'],
-    status: 'planned',
+    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
+    status: 'ready',
   },
   {
     name: 'ATELIER 27',

@@ -1,0 +1,29 @@
+{
+  "id": "northline",
+  "title": "NORTHLINE",
+  "demoBase": "/demos/northline",
+  "folder": "commercial-landings/apps/northline",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "summary": "Classic real estate landing — property filters and viewing CTA",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "Classic commercial агентство недвижимости: фильтры и карточки объектов.",
+      "problem": "Показать Level A: фильтры listings + clear viewing CTA.",
+      "solution": "Property filters + cards + Book a viewing form.",
+      "result": "Демо /demos/northline/.",
+      "metaTitle": "NORTHLINE — real estate case",
+      "metaDescription": "Classic real estate landing на Next.js."
+    },
+    "en": {
+      "summary": "Classic commercial real estate agency: filters and property cards.",
+      "problem": "Show Level A listing filters with a clear viewing CTA.",
+      "solution": "Property filters + cards + Book a viewing form.",
+      "result": "Demo at /demos/northline/.",
+      "metaTitle": "NORTHLINE — real estate case",
+      "metaDescription": "Classic real estate landing on Next.js."
+    }
+  }
+}
