@@ -6,8 +6,8 @@ Showcase из 15 коммерческих landing pages (5 тематик × 3 �
 
 ## Статус
 
-Этап: **Phase 0 + Phase 1** выполнены. Showcase skeleton: `/demos/commercial-landings/`.  
-Следующий шаг: Phase 2 — Maison Crumb `concept.md` + assets.
+Этап: **Phase 2** — Maison Crumb concept + assets готовы.  
+Следующий шаг: Phase 3 — реализация `apps/maison-crumb` (после подтверждения).
 
 Canonical ТЗ: [`../tz-for-commercial-landings-plan.md`](../tz-for-commercial-landings-plan.md)
 
