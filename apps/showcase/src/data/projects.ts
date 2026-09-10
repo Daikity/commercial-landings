@@ -165,8 +165,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
       ru: 'Performance workshop: speed-inspired transitions.',
       en: 'Performance workshop with speed-inspired transitions.',
     },
-    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'GSAP'],
-    status: 'planned',
+    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
+    status: 'ready',
   },
   {
     name: 'NORTH & CO',

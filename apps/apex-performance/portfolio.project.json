@@ -1,0 +1,29 @@
+{
+  "id": "apex-performance",
+  "title": "APEX / PERFORMANCE",
+  "demoBase": "/demos/apex-performance",
+  "folder": "commercial-landings/apps/apex-performance",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "summary": "Experimental performance workshop — sticky pull scrub, counters, dyno CTA",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "Experimental performance workshop: sticky pull, counters, Book a run.",
+      "problem": "Показать Level C Auto: speed motion + sticky vehicle + numbers.",
+      "solution": "Idle→Cool scrub, horizontal services, animated metrics.",
+      "result": "Демо /demos/apex-performance/.",
+      "metaTitle": "APEX / PERFORMANCE — dyno case",
+      "metaDescription": "Experimental performance automotive landing на Next.js."
+    },
+    "en": {
+      "summary": "Experimental performance workshop: sticky pull, counters, Book a run.",
+      "problem": "Show Level C Auto: speed motion + sticky vehicle + numbers.",
+      "solution": "Idle→Cool scrub, horizontal services, animated metrics.",
+      "result": "Demo at /demos/apex-performance/.",
+      "metaTitle": "APEX / PERFORMANCE — dyno case",
+      "metaDescription": "Experimental performance automotive landing on Next.js."
+    }
+  }
+}
