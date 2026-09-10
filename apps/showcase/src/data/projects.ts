@@ -139,8 +139,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
       ru: 'Car detailing: пакеты услуг, before/after slider.',
       en: 'Car detailing with packages and before/after slider.',
     },
-    tech: ['Next.js', 'Tailwind', 'Framer Motion'],
-    status: 'planned',
+    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
+    status: 'ready',
   },
   {
     name: 'VOLT GARAGE',

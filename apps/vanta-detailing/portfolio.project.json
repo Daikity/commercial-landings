@@ -1,0 +1,29 @@
+{
+  "id": "vanta-detailing",
+  "title": "VANTA DETAILING",
+  "demoBase": "/demos/vanta-detailing",
+  "folder": "commercial-landings/apps/vanta-detailing",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "summary": "Classic premium car detailing — packages, before/after, booking CTA",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "Classic commercial детейлинг: пакеты, before/after, запись.",
+      "problem": "Показать Level A Auto: услуги, цены, proof, clear CTA.",
+      "solution": "Services + packages + slider + Book a detail form.",
+      "result": "Демо /demos/vanta-detailing/.",
+      "metaTitle": "VANTA DETAILING — car care case",
+      "metaDescription": "Classic car detailing landing на Next.js."
+    },
+    "en": {
+      "summary": "Classic commercial car detailing: packages, before/after, booking.",
+      "problem": "Show Level A Auto: services, pricing, proof, clear CTA.",
+      "solution": "Services + packages + slider + Book a detail form.",
+      "result": "Demo at /demos/vanta-detailing/.",
+      "metaTitle": "VANTA DETAILING — car care case",
+      "metaDescription": "Classic car detailing landing on Next.js."
+    }
+  }
+}

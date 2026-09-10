@@ -1,0 +1,16 @@
+:root {
+  --color-bg: #0c0d0f;
+  --color-bg-elevated: #16181c;
+  --color-text: #e8eaed;
+  --color-text-muted: #9aa0a8;
+  --color-accent: #2ec4b6;
+  --color-accent-hover: #24a89c;
+  --color-line: #2a2e35;
+  --color-success: #2ec4b6;
+  --font-display: 'Barlow Condensed', system-ui, sans-serif;
+  --font-body: 'Barlow', system-ui, sans-serif;
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --section-space: clamp(3.5rem, 8vw, 6.5rem);
+  --shell-max: 72rem;
+}
