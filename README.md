@@ -6,8 +6,8 @@ Showcase из 15 коммерческих landing pages (5 тематик × 3 �
 
 ## Статус
 
-Этап: **Batch 5 ORBIT ✅ / следующий PULSE DIGITAL**.  
-Demos: … `/demos/north-and-co/`, `/demos/orbit-law/`.
+Этап: **Batch 5 PULSE ✅ (15/15 лендингов) / следующий showcase polish**.  
+Demos: … `/demos/orbit-law/`, `/demos/pulse-digital/`.
 
 Canonical ТЗ: [`../tz-for-commercial-landings-plan.md`](../tz-for-commercial-landings-plan.md)  
 Контекст: [`../ferment-batch1-context-plan.md`](../ferment-batch1-context-plan.md)

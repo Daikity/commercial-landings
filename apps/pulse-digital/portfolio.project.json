@@ -1,0 +1,29 @@
+{
+  "id": "pulse-digital",
+  "title": "PULSE DIGITAL",
+  "demoBase": "/demos/pulse-digital",
+  "folder": "commercial-landings/apps/pulse-digital",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "summary": "Experimental digital agency — sticky process, horizontal work, magnetic CTA",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "Experimental digital agency: sticky process, horizontal work, magnetic CTA.",
+      "problem": "Самый технологичный motion landing плана.",
+      "solution": "Brief→Ship scrub, work rail, Start a build form.",
+      "result": "Демо /demos/pulse-digital/.",
+      "metaTitle": "PULSE DIGITAL — agency case",
+      "metaDescription": "Experimental digital agency landing на Next.js."
+    },
+    "en": {
+      "summary": "Experimental digital agency: sticky process, horizontal work, magnetic CTA.",
+      "problem": "Most tech-forward motion landing in the plan.",
+      "solution": "Brief→Ship scrub, work rail, Start a build form.",
+      "result": "Demo at /demos/pulse-digital/.",
+      "metaTitle": "PULSE DIGITAL — agency case",
+      "metaDescription": "Experimental digital agency landing on Next.js."
+    }
+  }
+}

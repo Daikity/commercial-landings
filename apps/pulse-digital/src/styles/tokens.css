@@ -1,0 +1,16 @@
+:root {
+  --color-bg: #030508;
+  --color-bg-elevated: #0b0f18;
+  --color-text: #eef6ff;
+  --color-text-muted: #8896ab;
+  --color-accent: #2ee6ff;
+  --color-accent-hover: #6ef0ff;
+  --color-line: #1a2233;
+  --color-success: #2ee6ff;
+  --font-display: 'Unbounded', system-ui, sans-serif;
+  --font-body: 'IBM Plex Mono', ui-monospace, monospace;
+  --radius-sm: 0;
+  --radius-md: 0;
+  --section-space: clamp(3.5rem, 9vw, 7.5rem);
+  --shell-max: 72rem;
+}

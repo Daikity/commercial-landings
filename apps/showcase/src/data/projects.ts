@@ -204,7 +204,7 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
       ru: 'Digital agency: самый технологичный motion landing.',
       en: 'Digital agency: the most tech-forward motion landing.',
     },
-    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'GSAP'],
-    status: 'planned',
+    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
+    status: 'ready',
   },
 ];
