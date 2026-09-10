@@ -3,10 +3,17 @@
   "title": "PULSE DIGITAL",
   "demoBase": "/demos/pulse-digital",
   "folder": "commercial-landings/apps/pulse-digital",
-  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Framer Motion",
+    "React Hook Form",
+    "Zod"
+  ],
   "summary": "Experimental digital agency — sticky process, horizontal work, magnetic CTA",
   "show": true,
-  "featured": false,
+  "featured": true,
   "status": "online",
   "case": {
     "ru": {

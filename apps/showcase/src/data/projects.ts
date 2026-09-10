@@ -9,7 +9,16 @@ export type ShowcaseProject = {
   concept: { ru: string; en: string };
   tech: string[];
   status: 'planned' | 'in-progress' | 'ready';
+  /** Обложка с живого демо (тот же origin через proxy) */
+  cover: string;
+  accent: string;
 };
+
+const GH = 'https://github.com/Daikity/commercial-landings/tree/main/apps';
+
+export function sourceUrl(slug: string): string {
+  return `${GH}/${slug}`;
+}
 
 export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
   {
@@ -24,6 +33,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
     },
     tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
     status: 'ready',
+    cover: '/demos/maison-crumb/images/hero-croissant.png',
+    accent: '#c45c26',
   },
   {
     name: 'NOIR PÂTISSERIE',
@@ -37,6 +48,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
     },
     tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
     status: 'ready',
+    cover: '/demos/noir-patisserie/images/hero-gateau.png',
+    accent: '#c9a227',
   },
   {
     name: 'FERMENT',
@@ -50,6 +63,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
     },
     tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
     status: 'ready',
+    cover: '/demos/ferment/images/bread.png',
+    accent: '#8b6914',
   },
   {
     name: 'AURA Studio',
@@ -63,6 +78,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
     },
     tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
     status: 'ready',
+    cover: '/demos/aura-studio/images/hero-studio.png',
+    accent: '#b76e79',
   },
   {
     name: 'MONA Skin',
@@ -76,6 +93,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
     },
     tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
     status: 'ready',
+    cover: '/demos/mona-skin/images/hero.png',
+    accent: '#5c7a6e',
   },
   {
     name: 'KAIRO',
@@ -89,6 +108,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
     },
     tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
     status: 'ready',
+    cover: '/demos/kairo/images/hero.png',
+    accent: '#6b8f71',
   },
   {
     name: 'NORTHLINE',
@@ -102,6 +123,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
     },
     tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
     status: 'ready',
+    cover: '/demos/northline/images/hero.png',
+    accent: '#3d5a80',
   },
   {
     name: 'ATELIER 27',
@@ -115,6 +138,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
     },
     tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
     status: 'ready',
+    cover: '/demos/atelier-27/images/hero.png',
+    accent: '#9a7b4f',
   },
   {
     name: 'FRAME / HOUSE',
@@ -128,6 +153,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
     },
     tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
     status: 'ready',
+    cover: '/demos/frame-house/images/hero.png',
+    accent: '#4a5568',
   },
   {
     name: 'VANTA DETAILING',
@@ -141,6 +168,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
     },
     tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
     status: 'ready',
+    cover: '/demos/vanta-detailing/images/hero.png',
+    accent: '#1e3a5f',
   },
   {
     name: 'VOLT GARAGE',
@@ -154,6 +183,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
     },
     tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
     status: 'ready',
+    cover: '/demos/volt-garage/images/hero.png',
+    accent: '#00b4d8',
   },
   {
     name: 'APEX / PERFORMANCE',
@@ -167,6 +198,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
     },
     tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
     status: 'ready',
+    cover: '/demos/apex-performance/images/stage-launch.png',
+    accent: '#e63946',
   },
   {
     name: 'NORTH & CO',
@@ -180,6 +213,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
     },
     tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
     status: 'ready',
+    cover: '/demos/north-and-co/images/hero.png',
+    accent: '#2d4a3e',
   },
   {
     name: 'ORBIT LAW',
@@ -193,6 +228,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
     },
     tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
     status: 'ready',
+    cover: '/demos/orbit-law/images/hero.png',
+    accent: '#b08d57',
   },
   {
     name: 'PULSE DIGITAL',
@@ -206,5 +243,18 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
     },
     tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
     status: 'ready',
+    cover: '/demos/pulse-digital/images/hero.png',
+    accent: '#2ee6ff',
   },
 ];
+
+export const CATEGORIES = [
+  'All',
+  'Food & Bakery',
+  'Beauty & Wellness',
+  'Real Estate & Interior',
+  'Auto & Mobility',
+  'Professional Services',
+] as const;
+
+export const LEVELS = ['All', 'A', 'B', 'C'] as const;

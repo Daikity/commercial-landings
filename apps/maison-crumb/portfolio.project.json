@@ -3,7 +3,14 @@
   "title": "Maison Crumb",
   "demoBase": "/demos/maison-crumb",
   "folder": "commercial-landings/apps/maison-crumb",
-  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Framer Motion",
+    "React Hook Form",
+    "Zod"
+  ],
   "summary": "Classic commercial bakery landing — order pickup & delivery",
   "show": true,
   "featured": false,

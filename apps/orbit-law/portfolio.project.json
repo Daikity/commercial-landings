@@ -3,7 +3,14 @@
   "title": "ORBIT LAW",
   "demoBase": "/demos/orbit-law",
   "folder": "commercial-landings/apps/orbit-law",
-  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Framer Motion",
+    "React Hook Form",
+    "Zod"
+  ],
   "summary": "Premium editorial legal consultancy — practice areas, team, counsel CTA",
   "show": true,
   "featured": false,

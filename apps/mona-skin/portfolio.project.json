@@ -3,7 +3,14 @@
   "title": "MONA Skin",
   "demoBase": "/demos/mona-skin",
   "folder": "commercial-landings/apps/mona-skin",
-  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Framer Motion",
+    "React Hook Form",
+    "Zod"
+  ],
   "summary": "Premium editorial skincare clinic — consult booking",
   "show": true,
   "featured": false,

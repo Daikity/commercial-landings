@@ -3,7 +3,14 @@
   "title": "APEX / PERFORMANCE",
   "demoBase": "/demos/apex-performance",
   "folder": "commercial-landings/apps/apex-performance",
-  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Framer Motion",
+    "React Hook Form",
+    "Zod"
+  ],
   "summary": "Experimental performance workshop — sticky pull scrub, counters, dyno CTA",
   "show": true,
   "featured": false,

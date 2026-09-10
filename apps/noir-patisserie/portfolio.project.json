@@ -3,10 +3,17 @@
   "title": "NOIR PÂTISSERIE",
   "demoBase": "/demos/noir-patisserie",
   "folder": "commercial-landings/apps/noir-patisserie",
-  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Framer Motion",
+    "React Hook Form",
+    "Zod"
+  ],
   "summary": "Premium editorial pastry studio landing — private orders",
   "show": true,
-  "featured": false,
+  "featured": true,
   "status": "online",
   "case": {
     "ru": {

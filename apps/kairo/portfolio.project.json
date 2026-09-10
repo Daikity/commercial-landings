@@ -3,7 +3,14 @@
   "title": "KAIRO",
   "demoBase": "/demos/kairo",
   "folder": "commercial-landings/apps/kairo",
-  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Framer Motion",
+    "React Hook Form",
+    "Zod"
+  ],
   "summary": "Experimental wellness landing — breathing sticky practice ritual",
   "show": true,
   "featured": false,

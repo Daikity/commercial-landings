@@ -3,7 +3,14 @@
   "title": "VANTA DETAILING",
   "demoBase": "/demos/vanta-detailing",
   "folder": "commercial-landings/apps/vanta-detailing",
-  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Framer Motion",
+    "React Hook Form",
+    "Zod"
+  ],
   "summary": "Classic premium car detailing — packages, before/after, booking CTA",
   "show": true,
   "featured": false,

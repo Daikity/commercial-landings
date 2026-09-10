@@ -6,8 +6,8 @@ Showcase из 15 коммерческих landing pages (5 тематик × 3 �
 
 ## Статус
 
-Этап: **15/15 ✅ committed / следующий showcase polish**.  
-Demos: … `/demos/orbit-law/`, `/demos/pulse-digital/` (`85c35b8`).
+Этап: **showcase polish + featured ✅ / следующий push (по просьбе)**.  
+Demos: `/demos/commercial-landings/` (галерея 15) · featured: Noir / Ferment / Frame / Pulse + showcase.
 
 Canonical ТЗ: [`../tz-for-commercial-landings-plan.md`](../tz-for-commercial-landings-plan.md)  
 Контекст: [`../ferment-batch1-context-plan.md`](../ferment-batch1-context-plan.md)
@@ -121,7 +121,7 @@ Vitest + RTL для форм, validation, submit states, mobile menu, крити
 4. Deploy `/demos/<slug>/`
 5. **STOP** — следующий проект только после подтверждения
 
-Порядок: Phase 0 → showcase skeleton → Maison Crumb → Noir → Ferment → **Hard Gate** → Batch 2–5.
+Порядок: Phase 0 → … → Batch 5 → **showcase polish** → push (по просьбе).
 
 ## Локальный запуск monorepo
 

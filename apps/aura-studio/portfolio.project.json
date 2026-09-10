@@ -3,7 +3,14 @@
   "title": "AURA Studio",
   "demoBase": "/demos/aura-studio",
   "folder": "commercial-landings/apps/aura-studio",
-  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Framer Motion",
+    "React Hook Form",
+    "Zod"
+  ],
   "summary": "Classic commercial beauty salon — services, prices, booking",
   "show": true,
   "featured": false,

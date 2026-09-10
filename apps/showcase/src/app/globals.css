@@ -1,11 +1,12 @@
 @import 'tailwindcss';
 
 :root {
-  --background: #f6f4f1;
-  --foreground: #1a1a1a;
-  --muted: #5c5c5c;
-  --line: #d9d4cc;
-  --accent: #2f5d50;
+  --background: #0f1214;
+  --foreground: #e8ecef;
+  --muted: #8b949e;
+  --line: #2a3138;
+  --accent: #5eead4;
+  --ink-soft: #1a2026;
 }
 
 @theme inline {
@@ -14,11 +15,47 @@
   --color-muted: var(--muted);
   --color-line: var(--line);
   --color-accent: var(--accent);
+  --color-ink-soft: var(--ink-soft);
   --font-sans: var(--font-body);
+  --font-display: var(--font-display);
 }
 
 body {
-  background: var(--background);
+  background:
+    radial-gradient(ellipse 80% 50% at 10% -10%, rgba(94, 234, 212, 0.08), transparent 55%),
+    radial-gradient(ellipse 60% 40% at 90% 0%, rgba(232, 236, 239, 0.04), transparent 50%),
+    var(--background);
   color: var(--foreground);
   font-family: var(--font-body), system-ui, sans-serif;
+  min-height: 100vh;
+}
+
+.font-display {
+  font-family: var(--font-display), var(--font-body), system-ui, sans-serif;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-rise {
+  animation: rise 0.55s ease-out forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-rise {
+    animation: none;
+    opacity: 1;
+  }
+
+  .group:hover img {
+    transform: none !important;
+  }
 }

@@ -1,9 +1,15 @@
 import type { Metadata } from 'next';
-import { Source_Sans_3 } from 'next/font/google';
+import { IBM_Plex_Sans, Outfit } from 'next/font/google';
 import './globals.css';
 
-const sourceSans = Source_Sans_3({
+const outfit = Outfit({
+  subsets: ['latin'],
+  variable: '--font-display',
+});
+
+const ibmPlex = IBM_Plex_Sans({
   subsets: ['latin', 'cyrillic'],
+  weight: ['400', '500', '600'],
   variable: '--font-body',
 });
 
@@ -20,7 +26,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${sourceSans.variable} antialiased`}>{children}</body>
+      <body className={`${outfit.variable} ${ibmPlex.variable} antialiased`}>{children}</body>
     </html>
   );
 }

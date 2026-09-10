@@ -3,7 +3,14 @@
   "title": "NORTHLINE",
   "demoBase": "/demos/northline",
   "folder": "commercial-landings/apps/northline",
-  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Framer Motion",
+    "React Hook Form",
+    "Zod"
+  ],
   "summary": "Classic real estate landing — property filters and viewing CTA",
   "show": true,
   "featured": false,

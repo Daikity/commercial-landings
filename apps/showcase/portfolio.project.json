@@ -3,25 +3,30 @@
   "title": "Commercial Landings",
   "demoBase": "/demos/commercial-landings",
   "folder": "commercial-landings/apps/showcase",
-  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "pnpm"],
-  "summary": "Showcase из 15 коммерческих landing pages",
+  "stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "pnpm"
+  ],
+  "summary": "Showcase gallery: 15 commercial landings across 5 industries",
   "show": true,
-  "featured": false,
+  "featured": true,
   "status": "online",
   "case": {
     "ru": {
-      "summary": "Индекс-галерея 15 коммерческих лендингов: 5 тематик × 3 визуальных уровня.",
+      "summary": "Галерея 15 коммерческих лендингов: 5 тематик × 3 визуальных уровня.",
       "problem": "Нужен единый вход в коллекцию commercial landings для портфолио и заказчиков.",
-      "solution": "Минимальный showcase на Next.js static export под /demos/commercial-landings/.",
-      "result": "Skeleton со списком проектов, уровнями A/B/C и ссылками на будущие демо.",
+      "solution": "Полированный showcase на Next.js static export: фильтры, обложки, Demo/Source.",
+      "result": "Живой индекс под /demos/commercial-landings/ со всеми 15 ready-демо.",
       "metaTitle": "Commercial Landings — showcase",
       "metaDescription": "15 коммерческих landing pages: Food, Beauty, Real Estate, Auto, Professional Services."
     },
     "en": {
-      "summary": "Index gallery of 15 commercial landings: 5 industries × 3 visual directions.",
+      "summary": "Gallery of 15 commercial landings: 5 industries × 3 visual directions.",
       "problem": "Need a single entry point for the commercial landings collection.",
-      "solution": "Minimal Next.js static-export showcase under /demos/commercial-landings/.",
-      "result": "Skeleton with project list, A/B/C levels, and links to upcoming demos.",
+      "solution": "Polished Next.js static-export showcase: filters, covers, Demo/Source links.",
+      "result": "Live index at /demos/commercial-landings/ with all 15 ready demos.",
       "metaTitle": "Commercial Landings — showcase",
       "metaDescription": "15 commercial landing pages across Food, Beauty, Real Estate, Auto, and Professional Services."
     }

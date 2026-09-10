@@ -3,7 +3,14 @@
   "title": "NORTH & CO",
   "demoBase": "/demos/north-and-co",
   "folder": "commercial-landings/apps/north-and-co",
-  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Framer Motion",
+    "React Hook Form",
+    "Zod"
+  ],
   "summary": "Classic B2B consulting — services, cases, engagement CTA",
   "show": true,
   "featured": false,
