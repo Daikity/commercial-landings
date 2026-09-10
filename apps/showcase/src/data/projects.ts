@@ -178,8 +178,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
       ru: 'B2B consulting: строгий коммерческий landing.',
       en: 'B2B consulting with a structured commercial landing.',
     },
-    tech: ['Next.js', 'Tailwind', 'Framer Motion'],
-    status: 'planned',
+    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
+    status: 'ready',
   },
   {
     name: 'ORBIT LAW',

@@ -6,8 +6,8 @@ Showcase из 15 коммерческих landing pages (5 тематик × 3 �
 
 ## Статус
 
-Этап: **Batch 4 APEX ✅ / следующий Batch 5 NORTH & CO**.  
-Demos: … `/demos/volt-garage/`, `/demos/apex-performance/`.
+Этап: **Batch 5 NORTH & CO ✅ / следующий ORBIT LAW**.  
+Demos: … `/demos/apex-performance/`, `/demos/north-and-co/`.
 
 Canonical ТЗ: [`../tz-for-commercial-landings-plan.md`](../tz-for-commercial-landings-plan.md)  
 Контекст: [`../ferment-batch1-context-plan.md`](../ferment-batch1-context-plan.md)

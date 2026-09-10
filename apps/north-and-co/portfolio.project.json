@@ -1,0 +1,29 @@
+{
+  "id": "north-and-co",
+  "title": "NORTH & CO",
+  "demoBase": "/demos/north-and-co",
+  "folder": "commercial-landings/apps/north-and-co",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "summary": "Classic B2B consulting — services, cases, engagement CTA",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "Classic commercial B2B consulting: услуги, кейсы, CTA.",
+      "problem": "Строгий B2B landing без architecture/experimental.",
+      "solution": "Services + cases + process + Start an engagement form.",
+      "result": "Демо /demos/north-and-co/.",
+      "metaTitle": "NORTH & CO — consulting case",
+      "metaDescription": "Classic B2B consulting landing на Next.js."
+    },
+    "en": {
+      "summary": "Classic commercial B2B consulting: services, cases, CTA.",
+      "problem": "Show a structured B2B landing without architecture/experimental art.",
+      "solution": "Services + cases + process + Start an engagement form.",
+      "result": "Demo at /demos/north-and-co/.",
+      "metaTitle": "NORTH & CO — consulting case",
+      "metaDescription": "Classic B2B consulting landing on Next.js."
+    }
+  }
+}
