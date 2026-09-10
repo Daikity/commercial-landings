@@ -6,8 +6,8 @@ Showcase из 15 коммерческих landing pages (5 тематик × 3 �
 
 ## Статус
 
-Этап: **showcase polish + featured ✅ / следующий push (по просьбе)**.  
-Demos: `/demos/commercial-landings/` (галерея 15) · featured: Noir / Ferment / Frame / Pulse + showcase.
+Этап: **план закрыт ✅** (`a2c5396` showcase + featured).  
+Demos: `/demos/commercial-landings/` · featured на главной портфолио.
 
 Canonical ТЗ: [`../tz-for-commercial-landings-plan.md`](../tz-for-commercial-landings-plan.md)  
 Контекст: [`../ferment-batch1-context-plan.md`](../ferment-batch1-context-plan.md)
