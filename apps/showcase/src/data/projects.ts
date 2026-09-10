@@ -191,8 +191,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
       ru: 'Legal consultancy: editorial, trust, practice areas.',
       en: 'Legal consultancy: editorial, trust, practice areas.',
     },
-    tech: ['Next.js', 'Tailwind', 'Framer Motion'],
-    status: 'planned',
+    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
+    status: 'ready',
   },
   {
     name: 'PULSE DIGITAL',

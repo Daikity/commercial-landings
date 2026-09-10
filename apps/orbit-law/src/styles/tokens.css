@@ -1,0 +1,16 @@
+:root {
+  --color-bg: #0d121c;
+  --color-bg-elevated: #151b28;
+  --color-text: #f2efe8;
+  --color-text-muted: #9aa3b2;
+  --color-accent: #c4a882;
+  --color-accent-hover: #d4bc9a;
+  --color-line: #2a3344;
+  --color-success: #c4a882;
+  --font-display: 'Libre Baskerville', Georgia, serif;
+  --font-body: 'Mulish', system-ui, sans-serif;
+  --radius-sm: 0;
+  --radius-md: 0;
+  --section-space: clamp(4rem, 10vw, 8rem);
+  --shell-max: 72rem;
+}

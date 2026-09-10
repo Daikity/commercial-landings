@@ -1,0 +1,29 @@
+{
+  "id": "orbit-law",
+  "title": "ORBIT LAW",
+  "demoBase": "/demos/orbit-law",
+  "folder": "commercial-landings/apps/orbit-law",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "summary": "Premium editorial legal consultancy — practice areas, team, counsel CTA",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "Premium editorial юрконсалтинг: practice areas, team, CTA.",
+      "problem": "Показать Level B legal: trust + editorial typography.",
+      "solution": "Sticky practice rail, team, insights, Speak with counsel.",
+      "result": "Демо /demos/orbit-law/.",
+      "metaTitle": "ORBIT LAW — legal case",
+      "metaDescription": "Premium editorial legal landing на Next.js."
+    },
+    "en": {
+      "summary": "Premium editorial legal consultancy: practice areas, team, CTA.",
+      "problem": "Show Level B legal: trust + editorial typography.",
+      "solution": "Sticky practice rail, team, insights, Speak with counsel.",
+      "result": "Demo at /demos/orbit-law/.",
+      "metaTitle": "ORBIT LAW — legal case",
+      "metaDescription": "Premium editorial legal landing on Next.js."
+    }
+  }
+}
