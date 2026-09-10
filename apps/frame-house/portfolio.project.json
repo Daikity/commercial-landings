@@ -1,0 +1,29 @@
+{
+  "id": "frame-house",
+  "title": "FRAME / HOUSE",
+  "demoBase": "/demos/frame-house",
+  "folder": "commercial-landings/apps/frame-house",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "summary": "Experimental architecture landing — plan to house scroll scrub",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "Experimental architecture: scroll Plan → House.",
+      "problem": "Level C sticky scrub без WebGL.",
+      "solution": "Architectural sequence + clipping + Brief the studio form.",
+      "result": "Демо /demos/frame-house/.",
+      "metaTitle": "FRAME / HOUSE — architecture case",
+      "metaDescription": "Experimental architecture landing на Next.js."
+    },
+    "en": {
+      "summary": "Experimental architecture: scroll Plan → House.",
+      "problem": "Level C sticky scrub without WebGL.",
+      "solution": "Architectural sequence + clipping + Brief the studio form.",
+      "result": "Demo at /demos/frame-house/.",
+      "metaTitle": "FRAME / HOUSE — architecture case",
+      "metaDescription": "Experimental architecture landing on Next.js."
+    }
+  }
+}

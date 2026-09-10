@@ -126,8 +126,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
       ru: 'Architecture studio: space, materials, geometry, sticky scroll.',
       en: 'Architecture studio: space, materials, geometry, sticky scroll.',
     },
-    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'GSAP'],
-    status: 'planned',
+    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
+    status: 'ready',
   },
   {
     name: 'VANTA DETAILING',
