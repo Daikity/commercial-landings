@@ -1,0 +1,16 @@
+:root {
+  --color-bg: #07090e;
+  --color-bg-elevated: #10141c;
+  --color-text: #eef2f7;
+  --color-text-muted: #8b95a5;
+  --color-accent: #c8ff3d;
+  --color-accent-hover: #d6ff66;
+  --color-line: #1c2330;
+  --color-success: #c8ff3d;
+  --font-display: 'Sora', system-ui, sans-serif;
+  --font-body: 'Space Mono', ui-monospace, monospace;
+  --radius-sm: 0;
+  --radius-md: 0;
+  --section-space: clamp(4rem, 10vw, 8rem);
+  --shell-max: 72rem;
+}

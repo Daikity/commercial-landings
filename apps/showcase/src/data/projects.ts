@@ -152,8 +152,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
       ru: 'EV / premium automotive: dark technical editorial.',
       en: 'EV / premium automotive with dark technical editorial.',
     },
-    tech: ['Next.js', 'Tailwind', 'Framer Motion'],
-    status: 'planned',
+    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
+    status: 'ready',
   },
   {
     name: 'APEX / PERFORMANCE',

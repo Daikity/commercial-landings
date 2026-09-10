@@ -6,8 +6,8 @@ Showcase из 15 коммерческих landing pages (5 тематик × 3 �
 
 ## Статус
 
-Этап: **Batch 4 VANTA ✅ / следующий VOLT GARAGE**.  
-Demos: … `/demos/frame-house/`, `/demos/vanta-detailing/`.
+Этап: **Batch 4 VOLT ✅ / следующий APEX**.  
+Demos: … `/demos/vanta-detailing/`, `/demos/volt-garage/`.
 
 Canonical ТЗ: [`../tz-for-commercial-landings-plan.md`](../tz-for-commercial-landings-plan.md)  
 Контекст: [`../ferment-batch1-context-plan.md`](../ferment-batch1-context-plan.md)

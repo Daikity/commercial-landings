@@ -1,0 +1,29 @@
+{
+  "id": "volt-garage",
+  "title": "VOLT GARAGE",
+  "demoBase": "/demos/volt-garage",
+  "folder": "commercial-landings/apps/volt-garage",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "summary": "Premium editorial EV studio — vehicles strip, tech, bay booking",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "Premium editorial EV-студия: галерея, технология, запись в bay.",
+      "problem": "Показать Level B Auto: dark technical editorial + horizontal gallery.",
+      "solution": "Clip hero, vehicles strip, tech split, Reserve a bay form.",
+      "result": "Демо /demos/volt-garage/.",
+      "metaTitle": "VOLT GARAGE — EV studio case",
+      "metaDescription": "Premium editorial EV landing на Next.js."
+    },
+    "en": {
+      "summary": "Premium editorial EV studio: gallery, technology, bay booking.",
+      "problem": "Show Level B Auto: dark technical editorial + horizontal gallery.",
+      "solution": "Clip hero, vehicles strip, tech split, Reserve a bay form.",
+      "result": "Demo at /demos/volt-garage/.",
+      "metaTitle": "VOLT GARAGE — EV studio case",
+      "metaDescription": "Premium editorial EV landing on Next.js."
+    }
+  }
+}
