@@ -1,0 +1,29 @@
+{
+  "id": "atelier-27",
+  "title": "ATELIER 27",
+  "demoBase": "/demos/atelier-27",
+  "folder": "commercial-landings/apps/atelier-27",
+  "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "React Hook Form", "Zod"],
+  "summary": "Premium editorial interior design — horizontal project gallery",
+  "show": true,
+  "featured": false,
+  "status": "online",
+  "case": {
+    "ru": {
+      "summary": "Premium editorial студия интерьера: журнальная галерея проектов.",
+      "problem": "Показать Level B: horizontal gallery + masking reveals.",
+      "solution": "Selected projects gallery + materials + Start a project form.",
+      "result": "Демо /demos/atelier-27/.",
+      "metaTitle": "ATELIER 27 — interior design case",
+      "metaDescription": "Premium editorial interior landing на Next.js."
+    },
+    "en": {
+      "summary": "Premium editorial interior studio: magazine project gallery.",
+      "problem": "Show Level B horizontal gallery with masking reveals.",
+      "solution": "Selected projects gallery + materials + Start a project form.",
+      "result": "Demo at /demos/atelier-27/.",
+      "metaTitle": "ATELIER 27 — interior design case",
+      "metaDescription": "Premium editorial interior landing on Next.js."
+    }
+  }
+}

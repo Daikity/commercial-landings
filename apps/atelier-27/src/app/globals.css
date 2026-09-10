@@ -1,0 +1,68 @@
+@import 'tailwindcss';
+@import '../styles/tokens.css';
+
+@theme inline {
+  --color-background: var(--color-bg);
+  --color-foreground: var(--color-text);
+  --font-sans: var(--font-body);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body), system-ui, sans-serif;
+  overflow-x: clip;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--color-accent) 35%, white);
+}
+
+/* Нативная журнальная галерея */
+.atelier-gallery {
+  display: flex;
+  gap: 1.25rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-padding-inline: 1.5rem;
+  padding-inline: 1.5rem;
+  padding-block: 0.5rem 1.5rem;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+}
+
+.atelier-gallery > * {
+  scroll-snap-align: start;
+  flex: 0 0 min(78vw, 36rem);
+}
+
+@media (min-width: 768px) {
+  .atelier-gallery > * {
+    flex-basis: min(48vw, 32rem);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .atelier-gallery {
+    display: grid;
+    overflow: visible;
+    scroll-snap-type: none;
+    gap: 2rem;
+    padding-inline: 0;
+  }
+
+  .atelier-gallery > * {
+    flex: none;
+    width: 100%;
+  }
+}

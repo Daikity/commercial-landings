@@ -113,8 +113,8 @@ export const SHOWCASE_PROJECTS: ShowcaseProject[] = [
       ru: 'Interior design studio: журнальная презентация проектов.',
       en: 'Interior design studio with editorial project presentation.',
     },
-    tech: ['Next.js', 'Tailwind', 'Framer Motion'],
-    status: 'planned',
+    tech: ['Next.js', 'Tailwind', 'Framer Motion', 'React Hook Form'],
+    status: 'ready',
   },
   {
     name: 'FRAME / HOUSE',

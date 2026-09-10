@@ -6,8 +6,8 @@ Showcase из 15 коммерческих landing pages (5 тематик × 3 �
 
 ## Статус
 
-Этап: **Batch 3 / NORTHLINE** — после KAIRO.  
-Demos: `/demos/maison-crumb/`, `/demos/noir-patisserie/`, `/demos/ferment/`, `/demos/aura-studio/`, `/demos/mona-skin/`, `/demos/kairo/`, `/demos/northline/`.
+Этап: **Batch 3 / ATELIER 27** — после NORTHLINE.  
+Demos: … `/demos/northline/`, `/demos/atelier-27/`.
 
 Canonical ТЗ: [`../tz-for-commercial-landings-plan.md`](../tz-for-commercial-landings-plan.md)  
 Контекст: [`../ferment-batch1-context-plan.md`](../ferment-batch1-context-plan.md)

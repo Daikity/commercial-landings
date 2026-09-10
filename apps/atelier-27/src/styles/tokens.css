@@ -1,0 +1,17 @@
+:root {
+  --color-bg: #f6f4ef;
+  --color-bg-elevated: #fffcf7;
+  --color-ink: #0e0e0d;
+  --color-text: #0e0e0d;
+  --color-text-muted: #5e5954;
+  --color-accent: #8a7355;
+  --color-accent-hover: #6e5c44;
+  --color-line: #ddd7ce;
+  --color-success: #4a6b52;
+  --font-display: 'Bodoni Moda', Georgia, serif;
+  --font-body: 'DM Sans', system-ui, sans-serif;
+  --radius-sm: 0;
+  --radius-md: 0;
+  --section-space: clamp(4rem, 10vw, 8rem);
+  --shell-max: 72rem;
+}
