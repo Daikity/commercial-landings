@@ -6,7 +6,7 @@ Showcase из 15 коммерческих landing pages (5 тематик × 3 �
 
 ## Статус
 
-Этап: **Batch 3 / FRAME·HOUSE** — после ATELIER 27.  
+Этап: **Batch 3 ✅ / следующий Batch 4 VANTA**.  
 Demos: … `/demos/atelier-27/`, `/demos/frame-house/`.
 
 Canonical ТЗ: [`../tz-for-commercial-landings-plan.md`](../tz-for-commercial-landings-plan.md)  
